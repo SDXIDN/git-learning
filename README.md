@@ -280,3 +280,7 @@ And what else do I want to add about myself, yes, I'm a guy in a cool suit. But 
 ## Hello everyone
 
 My name is Kirill and I learn git
+
+## Hello there!
+
+Hi, I'm Vlad! I'm trying to study, but it's not going very well. That's all!
