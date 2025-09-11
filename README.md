@@ -6,3 +6,5 @@ Greetings to all!
 
 Bonjour! I'm Kate and that's my 2nd try!
 Greetings from Vitalii.
+
+Hello! I'm Maks and I very enjoyed this course ;)
