@@ -9,3 +9,5 @@ Greetings from Vitalii.
 
 Hello! I'm Maks and I very enjoyed this course ;)
 Hello world from Diana! :P
+
+Hello! I`m Anatoliy, nice to meet you!
