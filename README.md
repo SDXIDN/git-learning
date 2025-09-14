@@ -9,3 +9,5 @@ Greetings from Vitalii.
 
 Hello! I'm Maks and I very enjoyed this course ;)
 Hello world from Diana! :P
+
+Hi, I'm Tim. I hope this doesn't cause merge conflict
