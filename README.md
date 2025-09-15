@@ -13,3 +13,5 @@ Hello! I'm Maks and I very enjoyed this course ;)
 Hello world from Diana! :P
 
 Hey! I'm Sebastian, hope Git is kinder to me than exams xD
+
+Hey, I'm Yeghor! This is my attempt to tinker with Git :0
