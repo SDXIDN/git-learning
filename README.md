@@ -29,7 +29,7 @@ Hello from Vanessa
 
 Hello from Dmytro!)
 
-Hello from Tolik
+Hello! I'm Nastya
 
 Hello from Tolik
 
