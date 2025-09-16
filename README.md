@@ -17,6 +17,8 @@ Hello, I'm Sophia. It was very interesting to learn git :)
 
 Hey! I'm Sebastian, hope Git is kinder to me than exams xD
 
+hey i'm Polya 
+
 Hello Git! From Oksana.
 
 Hello from Stepan)
@@ -26,6 +28,8 @@ Hey, I'm Yeghor! This is my attempt to tinker with Git :0
 Hello from Vanessa
 
 Hello from Dmytro!)
+
+Hello from Tolik
 
 Hello from Tolik
 
