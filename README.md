@@ -52,6 +52,3 @@ Hello from Tolik
 Hello frome Misha
 
 Hello! I`m Anatoliy, nice to meet you!
-
-
-Hello my brothers!
