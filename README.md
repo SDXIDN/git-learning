@@ -61,4 +61,27 @@ Hello frome Misha
 
 Hello! I`m Anatoliy, nice to meet you!
 
- Hell0 from Yevhen!
+
+
+HELLO from Leonid
+Hello from Artem
+Hello from Dimon
+Hello from Nazar
+
+
+Hello World? i'm Nastya
+
+
+HELLO from Leonid
+
+Hello from Artem
+Hello from Dimon
+
+Hello from Nazar
+
+
+Hello from Artem
+Hello from Dimon
+
+Hell0 from Yevhen :]!
+
