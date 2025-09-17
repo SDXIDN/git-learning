@@ -53,6 +53,9 @@ Hello frome Misha
 
 Hello! I`m Anatoliy, nice to meet you!
 
+<<<<<<< HEAD
+HELLO from Leonid
 Hello from Artem
 Hello from Dimon
+<<<<<<< HEAD
 Hello from Nazar
