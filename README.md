@@ -53,4 +53,12 @@ Hello frome Misha
 
 Hello! I`m Anatoliy, nice to meet you!
 
+
 Hello World? i'm Nastya
+
+
+HELLO from Leonid
+
+Hello from Artem
+Hello from Dimon
+
