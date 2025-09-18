@@ -77,3 +77,4 @@ Hello from Artem
 Hello from Dimon
 
 Greetings from Oleksandr & Kirilo
+hello, adele is here!!!
