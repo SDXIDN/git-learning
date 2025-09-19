@@ -1,5 +1,4 @@
-I am Artem Karachevtsev.
-Greetings to all!
+I am Artem Karachevtsev. Greetings to all!
 
 Bonjour! I'm Kate and that's my 2nd try!
 
@@ -7,11 +6,13 @@ Greetings from Vitalii.
 
 Hello world from Diana! :P
 
-Hello Word i am Denis (O\_o)
-
 Hello everyone! I'm Karina star
 
 Hello! Im Maks and I very enjoyed this course ;)
+
+Hello world from Diana! :P
+
+hello there! Vanya' is here!
 
 hello there! Vanya is here!
 
@@ -33,11 +34,11 @@ Hello from Dmytro!)
 
 Hello from Tolik
 
-Hello. i am Denis!
-
 Hello from Vanessa
 
 Hello! I'm Nastya
+
+Hello World! It's Bogdan.
 
 Hello frome Misha
 
@@ -54,3 +55,5 @@ Hello from Nazar
 Hello World? i'm Nastya
 
 Greetings from Oleksandr & Kirilo
+
+Hello Word i am Denis (O\_o)
