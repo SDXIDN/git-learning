@@ -1,12 +1,4 @@
-I am Artem Karachevtsev.
-Greetings to all!
-
-
-
-
-
-
-
+I am Artem Karachevtsev. Greetings to all!
 
 Bonjour! I'm Kate and that's my 2nd try!
 
@@ -17,8 +9,8 @@ Hello everyone! I'm Karina :star:
 Hello! I'm Maks and I very enjoyed this course ;)
 
 Hello world from Diana! :P
-hello there! Vanya' is here!
 
+hello there! Vanya' is here!
 
 Hello world from Diana! :P
 
@@ -46,7 +38,6 @@ Hello from Tolik
 
 Hello from Dmytro!)
 
-
 Hello from Tolik
 
 Hello from Vanessa
@@ -56,6 +47,8 @@ Hello from Dmytro!)
 Hello! I'm Nastya
 
 Hello from Tolik
+
+Hello World! It's Bogdan.
 
 Hello frome Misha
 
@@ -72,6 +65,7 @@ Hello from Nazar
 
 
 Hello World? i'm Nastya
+
 
 
 HELLO from Leonid
@@ -93,3 +87,7 @@ Hell0 from Yevhen :]!
 
 Greetings from Oleksandr & Kirilo
 
+
+Greetings from Oleksandr & Kirilo
+
+Hell0 from Yevhen :]!
