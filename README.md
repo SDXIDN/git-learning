@@ -76,6 +76,14 @@ Hello from Dimon
 
 Greetings from Oleksandr \& Kirilo
 
+
+Greetings from Oleksandr & Kirilo
+
+hello, adele is here!!!
+
+
+Hell0 from Yevhen :]!
+
 Hello, I am Liubov
 
 Good evening from Solomiia ;)
