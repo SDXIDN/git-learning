@@ -74,6 +74,10 @@ Hello from Artem
 
 Hello from Dimon
 
+Greetings from Oleksandr & Kirilo
+
+Hi from Tanya
+
 Greetings from Oleksandr \& Kirilo
 
 
@@ -86,6 +90,9 @@ Hello everyone! I'm Karina :)
 Greetings from Oleksandr & Kirilo
 
 hello, adele is here!!!
+
+
+
 
 
 
@@ -108,6 +115,9 @@ Hell0 from Yevhen :]!
 Greetings from Oleksandr & Kirilo
 
 Hello Word i am Denis (O\_o)
+
+
+
 
 
 
