@@ -15,8 +15,6 @@ Hello world from Diana! :P
 
 hello there! Vanya' is here!
 
-
-
 Hello world from Diana! :P
 
 hello there! Vanya is here!
@@ -30,20 +28,15 @@ Hey! I'm Sebastian, hope Git is kinder to me than exams xD
 
 hey i'm Polya
 
-
 Hello Git! From Oksana.
 
 Hello from Stepan)
 
 Hey, I'm Yeghor! This is my attempt to tinker with Git :0
 
-
 Hello from Dmytro!)
 
-
-
 Hello from Tolik
-
 
 Hello from Dmytro!)
 
@@ -59,7 +52,6 @@ Hello frome Misha
 
 Hello! I am Anatoliy, nice to meet you!
 
-
 HELLO from Leonid
 
 Hello from Artem
@@ -67,12 +59,9 @@ Hello from Artem
 Hello from Dimon
 
 Hello from Nazar
-
 
 Hello World? i'm Nastya
 
-
-
 HELLO from Leonid
 
 Hello from Artem
@@ -80,7 +69,6 @@ Hello from Artem
 Hello from Dimon
 
 Hello from Nazar
-
 
 Hello from Artem
 
@@ -90,12 +78,11 @@ Greetings from Oleksandr \& Kirilo
 
 Hello, I am Liubov
 
+Good evening from Solomiia ;)
 
 Hell0 from Yevhen :]!
 
-
 Greetings from Oleksandr & Kirilo
-
 
 Greetings from Oleksandr & Kirilo
 
@@ -104,5 +91,4 @@ Hell0 from Yevhen :]!
 Greetings from Oleksandr & Kirilo
 
 Hello Word i am Denis (O\_o)
-
 
