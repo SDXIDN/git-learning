@@ -19,6 +19,7 @@ Hello world from Diana! :P
 
 hello there! Vanya is here!
 
+
 Hi, I'm Tim. I hope this doesn't cause merge conflict
 
 Hello, I'm Sophia. It was very interesting to learn git :)
@@ -75,6 +76,8 @@ Hello from Dimon
 
 Greetings from Oleksandr \& Kirilo
 
+Hello, I am Liubov
+
 Good evening from Solomiia ;)
 
 Hell0 from Yevhen :]!
@@ -88,3 +91,4 @@ Hell0 from Yevhen :]!
 Greetings from Oleksandr & Kirilo
 
 Hello Word i am Denis (O\_o)
+
