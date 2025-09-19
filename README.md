@@ -78,9 +78,15 @@ Greetings from Oleksandr \& Kirilo
 
 
 
+
 Greetings from Oleksandr & Kirilo
 
 Hello everyone! I'm Karina :)
+
+Greetings from Oleksandr & Kirilo
+
+hello, adele is here!!!
+
 
 
 Hell0 from Yevhen :]!
